@@ -9,3 +9,4 @@ data/enroll/*
 !data/enroll/.gitkeep
 models/*.onnx
 node_modules
+config.bat
